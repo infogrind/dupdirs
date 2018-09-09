@@ -6,7 +6,7 @@ import getopt
 
 
 def usage():
-    print """Usage: dupdir <dir1> <dir2>
+    print """Usage: dupdirs <dir1> <dir2>
 
 Prints all those directories from <dir1> that are also present in <dir2>. That
 is, a directory of the same name is present in <dir2>.
