@@ -1,11 +1,18 @@
-# dupdir - Find duplicates in different directories
+# dupdirs - Find duplicates in different directories
 
 ## Installation
 
 ### Manual
 
-Clone this repository and put the file `dupdirs` into a location of your
-preference (it should be on your path).
+Clone this repository and run
+
+```sh
+python setup.py install
+```
+
+This will install the script and all necessary dependencies and will make the
+`dupdirs` command available on your path.
+
 
 ### Using Homebrew
 
